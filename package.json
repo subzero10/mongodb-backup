@@ -1,7 +1,7 @@
 {
   "version": "1.6.91",
   "name": "mongodb-backup",
-  "description": "backup for mongodb",
+  "description": "backup for mongodb. master branch created.",
   "keywords": [
     "mongodb",
     "backup",
